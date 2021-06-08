@@ -1,0 +1,7 @@
+projectKey=aispringboot03
+serverUrl=http://192.168.43.19:9000
+serverVersion=7.9.5.38598
+branch=develop1  (e.g master)
+dashboardUrl=http://192.168.43.19:9000/dashboard?id=aispringboot03&branch=develop1++%28e.g+master%29&resolved=false
+ceTaskId=AXnpa6oe-NXOpEfCHjVM
+ceTaskUrl=http://192.168.43.19:9000/api/ce/task?id=AXnpa6oe-NXOpEfCHjVM

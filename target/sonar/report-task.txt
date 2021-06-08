@@ -1,0 +1,7 @@
+projectKey=a_test01
+serverUrl=http://192.168.43.19:9000
+serverVersion=7.9.5.38598
+branch=develop
+dashboardUrl=http://192.168.43.19:9000/dashboard?id=a_test01&branch=develop&resolved=false
+ceTaskId=AXnFcvVWXa0DEBqnVqGK
+ceTaskUrl=http://192.168.43.19:9000/api/ce/task?id=AXnFcvVWXa0DEBqnVqGK

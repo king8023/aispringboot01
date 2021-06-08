@@ -1,0 +1,15 @@
+
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ØÊéË•/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È‡áŞ8ØÊéË•/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œê­Ö8ØÊéË•/
+x
+java:S1104"XMake countryCount a static final constant or non-public and provide accessors if needed.(Êı‘ıüÿÿÿÿ8ÔÍß‡œ/
+U
+java:S2204":Use ".get()" to retrieve the value and compare it instead.(È¨â8ÔÍß‡œ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÉ»™8ÔÍß‡œ/
+C
+java:S3066"#Lower the visibility of this field.(Êı‘ıüÿÿÿÿ8ÔÍß‡œ/
+\
+java:S3066"<Lower the visibility of this setter or remove it altogether.(ÌŞ¾ûÿÿÿÿ8ÔÍß‡œ/
+F
+java:S1172"&Remove these unused method parameters.(îêìõıÿÿÿÿ8ÔÍß‡œ/

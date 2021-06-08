@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.2.0" sequence="0" timestamp="1622515279026" analysisTimestamp="1622515308118" release="">
+  <Project>
+    <Jar>H:\Workspace_idea\aispringboot01\target\classes\text\ceshi.class</Jar>
+    <Jar>H:\Workspace_idea\aispringboot01\target\classes\text\ceshi$Continent.class</Jar>
+    <Jar>H:\Workspace_idea\aispringboot01\target\classes\text\test.class</Jar>
+    <AuxClasspathEntry>H:\Workspace_idea\aispringboot01\target\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\boot\spring-boot-starter-web\2.0.7.RELEASE\spring-boot-starter-web-2.0.7.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\boot\spring-boot-starter\2.0.7.RELEASE\spring-boot-starter-2.0.7.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\boot\spring-boot\2.0.7.RELEASE\spring-boot-2.0.7.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\boot\spring-boot-autoconfigure\2.0.7.RELEASE\spring-boot-autoconfigure-2.0.7.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\boot\spring-boot-starter-logging\2.0.7.RELEASE\spring-boot-starter-logging-2.0.7.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\apache\logging\log4j\log4j-to-slf4j\2.10.0\log4j-to-slf4j-2.10.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\apache\logging\log4j\log4j-api\2.10.0\log4j-api-2.10.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\slf4j\jul-to-slf4j\1.7.25\jul-to-slf4j-1.7.25.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\spring-core\5.0.11.RELEASE\spring-core-5.0.11.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\spring-jcl\5.0.11.RELEASE\spring-jcl-5.0.11.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\boot\spring-boot-starter-json\2.0.7.RELEASE\spring-boot-starter-json-2.0.7.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\com\fasterxml\jackson\core\jackson-databind\2.9.7\jackson-databind-2.9.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\com\fasterxml\jackson\core\jackson-core\2.9.7\jackson-core-2.9.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.9.7\jackson-datatype-jdk8-2.9.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.9.7\jackson-datatype-jsr310-2.9.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\com\fasterxml\jackson\module\jackson-module-parameter-names\2.9.7\jackson-module-parameter-names-2.9.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\boot\spring-boot-starter-tomcat\2.0.7.RELEASE\spring-boot-starter-tomcat-2.0.7.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\apache\tomcat\embed\tomcat-embed-core\8.5.35\tomcat-embed-core-8.5.35.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\apache\tomcat\embed\tomcat-embed-el\8.5.35\tomcat-embed-el-8.5.35.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\apache\tomcat\embed\tomcat-embed-websocket\8.5.35\tomcat-embed-websocket-8.5.35.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\hibernate\validator\hibernate-validator\6.0.13.Final\hibernate-validator-6.0.13.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\javax\validation\validation-api\2.0.1.Final\validation-api-2.0.1.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\jboss\logging\jboss-logging\3.3.2.Final\jboss-logging-3.3.2.Final.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\com\fasterxml\classmate\1.3.4\classmate-1.3.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\spring-web\5.0.11.RELEASE\spring-web-5.0.11.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\spring-beans\5.0.11.RELEASE\spring-beans-5.0.11.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\spring-webmvc\5.0.11.RELEASE\spring-webmvc-5.0.11.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\spring-aop\5.0.11.RELEASE\spring-aop-5.0.11.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\spring-context\5.0.11.RELEASE\spring-context-5.0.11.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\springframework\spring-expression\5.0.11.RELEASE\spring-expression-5.0.11.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.2.71\kotlin-stdlib-jdk8-1.2.71.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\jetbrains\kotlin\kotlin-stdlib\1.2.71\kotlin-stdlib-1.2.71.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\jetbrains\kotlin\kotlin-stdlib-common\1.2.71\kotlin-stdlib-common-1.2.71.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\jetbrains\annotations\13.0\annotations-13.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\RepMaven\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.2.71\kotlin-stdlib-jdk7-1.2.71.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\Workspace_idea\aispringboot01\target\sonar\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>H:\Workspace_idea\aispringboot01\target\sonar\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>H:\Workspace_idea\aispringboot01\target\sonar</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Tue, 1 Jun 2021 10:41:19 +0800" total_classes="3" referenced_classes="28" total_bugs="0" total_size="39" num_packages="1" java_version="11" vm_version="11+28" cpu_seconds="20.11" clock_seconds="7.04" peak_mbytes="318.66" alloc_mbytes="2026.00" gc_seconds="0.07">
+    <FileStats path="text/ceshi.java" bugCount="0" size="30"/>
+    <FileStats path="text/test.java" bugCount="0" size="9"/>
+    <PackageStats package="text" total_bugs="0" total_types="3" total_size="39">
+      <ClassStats class="text.ceshi" sourceFile="ceshi.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="text.ceshi$Continent" sourceFile="ceshi.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="text.test" sourceFile="test.java" interface="false" size="9" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1150" invocations="385" avgMicrosecondsPerInvocation="2989" maxMicrosecondsPerInvocation="67168" standardDeviationMicrosecondsPerInvocation="7198"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="288" invocations="391" avgMicrosecondsPerInvocation="738" maxMicrosecondsPerInvocation="32541" standardDeviationMicrosecondsPerInvocation="2769"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="282" invocations="28" avgMicrosecondsPerInvocation="10087" maxMicrosecondsPerInvocation="57825" standardDeviationMicrosecondsPerInvocation="17456"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="228" invocations="66" avgMicrosecondsPerInvocation="3458" maxMicrosecondsPerInvocation="82733" standardDeviationMicrosecondsPerInvocation="10462"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="213" invocations="28" avgMicrosecondsPerInvocation="7627" maxMicrosecondsPerInvocation="79035" standardDeviationMicrosecondsPerInvocation="17125"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="194" invocations="10" avgMicrosecondsPerInvocation="19420" maxMicrosecondsPerInvocation="187656" standardDeviationMicrosecondsPerInvocation="56083"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="157" invocations="351" avgMicrosecondsPerInvocation="449" maxMicrosecondsPerInvocation="59429" standardDeviationMicrosecondsPerInvocation="3326"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="153" invocations="60" avgMicrosecondsPerInvocation="2550" maxMicrosecondsPerInvocation="52400" standardDeviationMicrosecondsPerInvocation="8964"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="151" invocations="28" avgMicrosecondsPerInvocation="5411" maxMicrosecondsPerInvocation="63648" standardDeviationMicrosecondsPerInvocation="13965"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="118" invocations="10" avgMicrosecondsPerInvocation="11858" maxMicrosecondsPerInvocation="59631" standardDeviationMicrosecondsPerInvocation="19501"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="104" invocations="28" avgMicrosecondsPerInvocation="3730" maxMicrosecondsPerInvocation="47658" standardDeviationMicrosecondsPerInvocation="10149"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.csrf.SpringCsrfProtectionDisabledDetector" totalMilliseconds="85" invocations="3" avgMicrosecondsPerInvocation="28573" maxMicrosecondsPerInvocation="85284" standardDeviationMicrosecondsPerInvocation="40100"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="84" invocations="10" avgMicrosecondsPerInvocation="8454" maxMicrosecondsPerInvocation="65054" standardDeviationMicrosecondsPerInvocation="18953"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="67" invocations="3" avgMicrosecondsPerInvocation="22613" maxMicrosecondsPerInvocation="65478" standardDeviationMicrosecondsPerInvocation="30314"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.HttpResponseSplittingDetector" totalMilliseconds="67" invocations="3" avgMicrosecondsPerInvocation="22517" maxMicrosecondsPerInvocation="67190" standardDeviationMicrosecondsPerInvocation="31588"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="64" invocations="28" avgMicrosecondsPerInvocation="2286" maxMicrosecondsPerInvocation="15608" standardDeviationMicrosecondsPerInvocation="4302"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="61" invocations="10" avgMicrosecondsPerInvocation="6129" maxMicrosecondsPerInvocation="21938" standardDeviationMicrosecondsPerInvocation="7732"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

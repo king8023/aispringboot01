@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="327f0380-1b48-4c14-ab18-36b326f4f97d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/2538046035efb77ecc44e1fd2eec1e2641594d4c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39c764a0252a4da24c811d3d53dd10d43bfd3751" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/615cbd7f67e2ec6a315190703deac911045928d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1774333a5fae556f384289bb6a122fe21e0ffab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/.sonar_lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/checkstyle-result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/class-mapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/findbugs-include.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/findbugs-result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/findbugs/findsecbugs-plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scannerwork/report-task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/text/ceshi$Continent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/text/ceshi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/text/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchfc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchnc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchpc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/bundle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/class.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/greenbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/group.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/method.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/package.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/redbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/report.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/session.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/sort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/text/ceshi$Continent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/text/ceshi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/text/ceshi.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/text/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/text/index.source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/text/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/jacoco/text/test.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sonar/.sonar_lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sonar/checkstyle-result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sonar/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sonar/class-mapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sonar/findbugs-include.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sonar/findbugs-result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sonar/findbugs/findsecbugs-plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sonar/report-task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/DemoTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-DemoTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/text/ceshi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/text/ceshi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/text/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/text/test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ceshi.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="41" column="7" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="41" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kotlin</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/text/this/Text.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/text/this/ceshi.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/text/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/text/sonar.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/text/JuheDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/text/JuheDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/text/JuheDemo3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/text/JuheDemo4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ssm/mapper/OrderdetailMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/text/JuheDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ceshi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/text/Javademo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Demotest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/text/test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DemoTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/text/ceshi.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\RepMaven" />
+        <option name="mavenHome" value="E:/anzhuang/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\anzhuang\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aispringboot01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aispringboot01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aispringboot01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aispringboot01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aispringboot01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="sonar" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aispringboot01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="surefire" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aispringboot01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aispringboot01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aispringboot01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aispringboot01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aispringboot01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aispringboot01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aispringboot01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aispringboot01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aispringboot01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aispringboot01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ceshi">
+    <configuration name="JuheDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text.JuheDemo" />
+      <module name="aispringboot01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ceshi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text.ceshi" />
+      <module name="aispringboot01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ceshi" />
+      <item itemvalue="Application.JuheDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ceshi" />
+        <item itemvalue="Application.JuheDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="327f0380-1b48-4c14-ab18-36b326f4f97d" name="Default" comment="" />
+      <created>1563865434341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563865434341</updated>
+      <workItem from="1563865442687" duration="838000" />
+      <workItem from="1611562813681" duration="1541000" />
+      <workItem from="1611564961602" duration="8627000" />
+      <workItem from="1612666337392" duration="3020000" />
+      <workItem from="1612677532804" duration="1827000" />
+      <workItem from="1612836777473" duration="5532000" />
+      <workItem from="1614148300350" duration="3385000" />
+      <workItem from="1614320365942" duration="7479000" />
+      <workItem from="1615536771333" duration="135000" />
+      <workItem from="1615538670767" duration="159000" />
+      <workItem from="1615539336377" duration="923000" />
+      <workItem from="1616568010522" duration="2583000" />
+      <workItem from="1616979662608" duration="3167000" />
+      <workItem from="1616990642840" duration="15681000" />
+      <workItem from="1617011497975" duration="9995000" />
+      <workItem from="1618446377744" duration="1812000" />
+      <workItem from="1620368813626" duration="17072000" />
+      <workItem from="1620473479345" duration="232000" />
+      <workItem from="1620608728207" duration="9345000" />
+      <workItem from="1620782312458" duration="2312000" />
+      <workItem from="1620871895264" duration="3112000" />
+      <workItem from="1621219964804" duration="592000" />
+      <workItem from="1621235691243" duration="839000" />
+      <workItem from="1621471929770" duration="5582000" />
+      <workItem from="1622439580955" duration="10590000" />
+      <workItem from="1623117110178" duration="1910000" />
+    </task>
+    <task id="LOCAL-00001" summary="ceshi">
+      <created>1611734805838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611734805838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ceshi">
+      <created>1611735211819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611735211819</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ceshi">
+      <created>1611736058887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611736058887</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118155000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32998326" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.24810892" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34170854" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32998326" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998326" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ceshi" />
+    <option name="LAST_COMMIT_MESSAGE" value="ceshi" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="39" selection-start-line="12" selection-start-column="32" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/this/Text.kt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/this/Text.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/this/ceshi.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/main.java" />
+    <entry file="file://$MAVEN_REPOSITORY$/com/puppycrawl/tools/checkstyle/5.6/checkstyle-5.6.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/sonar.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo3.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo4.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ssm/mapper/OrderdetailMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/JuheDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ceshi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/Javademo.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jacoco/jacoco-maven-plugin/0.8.2/jacoco-maven-plugin-0.8.2.jar!/META-INF/maven/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="957" column="45" lean-forward="true" selection-start-line="957" selection-start-column="45" selection-end-line="957" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.0.7.RELEASE/spring-boot-starter-parent-2.0.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.7.RELEASE/spring-boot-dependencies-2.0.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2052" />
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.0.7.RELEASE/spring-boot-starter-web-2.0.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sonar-project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/text/ceshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="41" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aispringboot01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.71</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=a_test01 -Dapp.env=dev -Dsonar.projectKey=a_test01   -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210531 -Dsonar.branch.name=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210330&#9; -Dsonar.branch.name=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.projectName=aaa -Dapp.env=dev  -Dsonar.projectKey=aaa  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210330 -Dsonar.branch.name=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210330" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=a_test01 -Dapp.env=dev -Dsonar.projectKey=a_test01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210531 -Dsonar.pullrequest.key=a_test01  -Dsonar.pullrequest.branch=develop -Dsonar.pullrequest.base=masterclean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=a_test01 -Dapp.env=dev -Dsonar.projectKey=a_test01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210531 -Dsonar.pullrequest.key=a_test01  -Dsonar.pullrequest.branch=develop -Dsonar.pullrequest.base=master" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=a_test01 -Dapp.env=dev -Dsonar.projectKey=a_test01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210531 -Dsonar.branch.name=develop -Dsonar.pullrequest.key=a_test01  -Dsonar.pullrequest.branch=develop -Dsonar.pullrequest.base=master" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=a_test01 -Dapp.env=dev -Dsonar.projectKey=a_test01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210531 -Dsonar.branch.name=develop -Dsonar.pullrequest.key=a_test01  -Dsonar.pullrequest.branch=develop -Dsonar.pullrequest.base=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=a_test01 -Dapp.env=dev -Dsonar.projectKey=a_test01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210531 -Dsonar.branch.name=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=a_test01 -Dapp.env=dev -Dsonar.projectKey=a_test01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210531" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210329" />
+    <option value="compile" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210329 -Dsonar.branch.name=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot03 -Dapp.env=dev -Dsonar.projectKey=aispringboot03 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210331 -Dsonar.branch.name=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot03 -Dapp.env=dev -Dsonar.projectKey=aispringboot03 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210330 -Dsonar.branch.name=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot03 -Dapp.env=dev -Dsonar.projectKey=aispringboot03 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210330" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210330 -Dsonar.branch.name=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210329 -Dsonar.branch.name=develop1" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210329 -Dsonar.branch=develop" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01  -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210329" />
+    <option value="clean test sonar:sonar -Dsonar.host.url=http://192.168.43.19:9000 -Denv=sonar -fail-never -Dapp.name=aispringboot01 -Dapp.env=dev -Dsonar.projectKey=aispringboot01 -Dsonar.login=aa90f970cccc49df4c8d3c8d9f74fcbbed5e22f5 -Dsonar.projectVersion=20210329 -Dsonar.pullrequest.key=aispringboot01  -Dsonar.pullrequest.branch=aispringboot01 -Dsonar.pullrequest.base=aispringboot01" />
+  </component>
+</project>

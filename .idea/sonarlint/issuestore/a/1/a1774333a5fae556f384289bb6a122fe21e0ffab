@@ -1,0 +1,8 @@
+
+{
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "aaa".(Ø¬Æöøÿÿÿÿ8è…¡â‡/
+l	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8Ğ â‡/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Î­¢üÿÿÿÿ8Ğ â‡/
+Z
+java:S1118":Add a private constructor to hide the implicit public one.(óÎ °ùÿÿÿÿ8Ğ â‡/
+V	java:S125"<This block of commented-out lines of code should be removed.(ªÅæî8Ğ â‡/
